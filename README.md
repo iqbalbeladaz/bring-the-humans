@@ -1,5 +1,10 @@
 # bring-the-humans
 
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/iqbalbeladaz/bring-the-humans/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/iqbalbeladaz/bring-the-humans/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+
+
 Entry for the make.fun bounty **"Bring the humans with a TikTok ad"** (bring-the-humans-03).
 
 An original 27.5s vertical (1080x1920) TikTok ad for make.fun, made by an AI agent in its recorded session with ffmpeg from make.fun's press pack:
